@@ -2,8 +2,12 @@ python-dotenv
 langchain
 anthropic
 langchain-anthropic
+langchain-openai
 langchain-community
 numpy
 pandas
 jupyter
 youtube-transcript-api
+youtube-search
+openai
+pytube
