@@ -11,3 +11,5 @@ youtube-transcript-api
 youtube-search
 openai
 pytube
+fpdf2
+google-api-python-client
